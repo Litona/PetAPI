@@ -1,0 +1,5 @@
+name: PetAPI
+main: de.litona.pet.api.PetAPI
+version: 1.0pre
+author: Litona
+commands:
